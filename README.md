@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aeoncat
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning intermediate javascript
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning python3
 - 📫 How to reach me: aeoncat@gmail.com
 
 <!---
