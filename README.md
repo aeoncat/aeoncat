@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aeoncat
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python3
+- 🌱 I’m currently learning full stack and AI
 - 📫 How to reach me: aeoncat@gmail.com
 
 <!---
